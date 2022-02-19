@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Attendace App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="teacher_name">Teacher Name</string>
+    <string name="teacher_info">Teacher Information</string>
+    <string name="my_calss">My Class</string>
+    <string name="log_in">Log In</string>
 </resources>
